@@ -34,6 +34,16 @@ Examples of academic labs with explicitly stated expectations of themselves and 
   > - we run quite a bit of training in data-intensive biology.
   > - we coordinate training and communication for the NIH-funded Data Commons Pilot Phase.
   > - the lab is located at the University of California, Davis in the School of Veterinary Medicine.
+
+* Coelho, Luis Pedro at the Fudan University (Shanghai, China). [Lab Website](http://big-data-biology.org/). [Lab Manual](http://big-data-biology.org/manual/). [Twitter](https://twitter.com/luispedrocoelho).
+  > We are interested both in developing novel computational methods and in
+  > applying them to large scale problems. Our focus is on the _global
+  > microbiome_ and in exploiting publicly available data to gain understanding
+  > into microbial ecosystems.
+  >
+  > _Lab motto_: "Ever tried. Ever failed. No matter. Try Again. Fail again.
+  > Fail better. — S. Beckett, in other words, **failing is the job**.
+   
   
   
 * Greene, Casey S at the Department of Systems Pharmacology and Translational Therapeutics at the University of Pennsylvania. [Lab Website](http://greenelab.com/). [Lab Manual](https://github.com/greenelab/onboarding/blob/master/onboarding.md). [Twitter](https://twitter.com/greenescientist). [GitHub](https://github.com/greenelab/)
