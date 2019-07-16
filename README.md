@@ -1,5 +1,5 @@
-# awesome-advisors
-Academic (Masters', PhD, Postdoc) advisors with explicitly stated expectations of themselves and their mentees in the form of written lab manuals. In general, this includes:
+# awesome-expectations
+Examples of academic labs with explicitly stated expectations of themselves and their mentees in the form of written lab manuals. In general, this includes:
 - Lab manual with expectations of Masters' and PhD students and Postdocs
 - Work-life balance philosophies
 - Code of Conduct with anti-harassment policies
