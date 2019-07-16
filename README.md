@@ -3,7 +3,7 @@ Academic (Masters', PhD, Postdoc) advisors with explicitly stated expectations o
 
 ## Evolutionary Biology
 
-* Carvunis, Anne at University of Pittsburgh, Pennsylvania, USA. [Lab Website](https://www.csb.pitt.edu/faculty/carvunis/). [Lab Manual](https://docs.google.com/document/d/1527btfgL-NcJiO3TZnjJ61VDmMiCJvuiunoA6XTi488/edit). [Twitter](https://twitter.com/carvunis)
+* Carvunis, Anne at University of Pittsburgh School of Medicine, Pennsylvania, USA. [Lab Website](https://www.csb.pitt.edu/faculty/carvunis/). [Lab Manual](https://docs.google.com/document/d/1527btfgL-NcJiO3TZnjJ61VDmMiCJvuiunoA6XTi488/edit). [Twitter](https://twitter.com/carvunis)
   > What makes each species unique? In the Carvunis lab, we study the molecular mechanisms of change and innovation in evolution. This involves thinking about how genomes change over time, what cellular processes enable these changes, and how novel molecular networks emerge. We consider evolution in the light of systems biology and systems biology in the light of evolution, in order to gain a better understanding of how cells and organisms live and evolve. The research tools we rely on most are bioinformatics, yeast genetics and genomics. Generally, we strive to foster an interdisciplinary and collaborative research environment where researchers can develop creative approaches to describe, engineer and predict the genetic and network-level determinants of species-specificity.
 
 
