@@ -35,6 +35,10 @@ Examples of academic labs with explicitly stated expectations of themselves and 
   > - we coordinate training and communication for the NIH-funded Data Commons Pilot Phase.
   > - the lab is located at the University of California, Davis in the School of Veterinary Medicine.
   
+  
+* Greene, Casey S at the Department of Systems Pharmacology and Translational Therapeutics at the University of Pennsylvania. [Lab Website](http://greenelab.com/). [Lab Manual](https://github.com/greenelab/onboarding/blob/master/onboarding.md). [Twitter](https://twitter.com/greenescientist). [GitHub](https://github.com/greenelab/)
+  > We view our core purpose as the development of methodological advances and integrative systems that make analysis of big data, particularly gene expression data, as routine in wet-bench biology labs as PCR. To accomplish this, we will write good code, perform solid and reproducible analyses, and disseminate our results widely through approachable publications and webservers. We recognize that trust, both in the process and in our results, is of primary importance to the biologists that use our methods and webservers. Therefore, we strive to make our source code as open and accessible as possible. When we submit papers, we expect that the analytical code behind those papers will be something that we can be proud of. To these ends, we will provide reviewers and the scientific community with all source code required to generate figures in the paper that result from computational analyses.
+  
 ## Molecular Biology
 
 * DePace, Angela at the Systems Biology Department at Harvard Medical School. [Lab Website](https://depace.med.harvard.edu/). [Lab Manual](https://depace.med.harvard.edu/?page_id=408). [Twitter](https://twitter.com/depacelab).
