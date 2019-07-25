@@ -32,10 +32,11 @@ Examples of academic labs with explicitly stated expectations of themselves and 
   > _Lab motto_: "Ever tried. Ever failed. No matter. Try Again. Fail again.
   > Fail better. — S. Beckett, in other words, **failing is the job**.
    
-  
-  
 * Greene, Casey S at the Department of Systems Pharmacology and Translational Therapeutics at the University of Pennsylvania. [Lab Website](http://greenelab.com/). [Lab Manual](https://github.com/greenelab/onboarding/blob/master/onboarding.md). [Twitter](https://twitter.com/greenescientist). [GitHub](https://github.com/greenelab/)
   > We view our core purpose as the development of methodological advances and integrative systems that make analysis of big data, particularly gene expression data, as routine in wet-bench biology labs as PCR. To accomplish this, we will write good code, perform solid and reproducible analyses, and disseminate our results widely through approachable publications and webservers. We recognize that trust, both in the process and in our results, is of primary importance to the biologists that use our methods and webservers. Therefore, we strive to make our source code as open and accessible as possible. When we submit papers, we expect that the analytical code behind those papers will be something that we can be proud of. To these ends, we will provide reviewers and the scientific community with all source code required to generate figures in the paper that result from computational analyses.
+
+* Fertig, Elana J at the Division of Biostatistics and Bioinformatics, Department of Oncology at the Johns Hopkins University. [Lab Website](https://fertiglab.com/). [Lab Manual](https://docs.google.com/document/d/1ICMaNf8bQQPybPb2crEVIpzJrSI5Xs2_Ov40tCigO7k/edit?usp=sharing). [Twitter](https://twitter.com/FertigLab). [GitHub](https://github.com/FertigLab/)
+  > Our lab pursues research in the systems biology of cancer and therapeutic response.  We develop computational methods for pattern detection from genomics data and integration of diverse high-throughput data modalities. These algorithms are applied to analyze data from diverse cancer types, with a primary focus on precision medicine and therapeutic resistance.
   
 ## Molecular Biology
 
